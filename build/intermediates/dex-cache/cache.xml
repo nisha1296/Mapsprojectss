@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/nisha/AndroidStudioProjects/MAPSPROJECT/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="fb7cd16b2cba3864727fef2e3d346e1ed972e96e">
+        <dex dex="/home/nisha/AndroidStudioProjects/MAPSPROJECT/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_052409f67e73a2e2da4e7f838bd064be7b609f53/classes.dex" />
+    </item>
+    <item
+        jar="/home/nisha/AndroidStudioProjects/MAPSPROJECT/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="c16e382188233367d6e3b83a56f3adfb9340cb47">
+        <dex dex="/home/nisha/AndroidStudioProjects/MAPSPROJECT/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_31ab077573546b53c4a64c7b78bdbc96f797db97/classes.dex" />
+    </item>
+    <item
+        jar="/home/nisha/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/23.0.1/support-annotations-23.0.1.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="1fce89a6428c51467090d7f424e4c9c3dbd55f7e">
+        <dex dex="/home/nisha/AndroidStudioProjects/MAPSPROJECT/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-23.0.1_065eed77482d8c519a3fdb2cc46d4082661df5e7/classes.dex" />
+    </item>
+    <item
+        jar="/home/nisha/AndroidStudioProjects/MAPSPROJECT/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="/home/nisha/AndroidStudioProjects/MAPSPROJECT/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-23.0.1_3f0582da1f075afeed0eb8717f21e2b645116b97/classes.dex" />
+    </item>
+    <item
+        jar="/home/nisha/AndroidStudioProjects/MAPSPROJECT/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="c31e21b53ff2f74664e498248d01453a32e32d48">
+        <dex dex="/home/nisha/AndroidStudioProjects/MAPSPROJECT/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-23.0.1_0c0f2ae41eff07a6fde61e25275984969435737b/classes.dex" />
+    </item>
+    <item
+        jar="/home/nisha/AndroidStudioProjects/MAPSPROJECT/app/build/intermediates/exploded-aar/com.google.android.gms/play-services/6.1.71/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="0f6d5c1ef2e982c3b7858408e3df389cf5d202da">
+        <dex dex="/home/nisha/AndroidStudioProjects/MAPSPROJECT/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-6.1.71_4879e7eb66e8139c3c6f66baaef08c901becba04/classes.dex" />
+    </item>
+    <item
+        jar="/home/nisha/AndroidStudioProjects/MAPSPROJECT/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/libs/internal_impl-23.0.1.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="aa92916125166649d8ad4ba3940c3dd7515596d3">
+        <dex dex="/home/nisha/AndroidStudioProjects/MAPSPROJECT/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-23.0.1_7727751ee6ea9d7efc6553a1bc0548ca0ac6e696/classes.dex" />
+    </item>
+    <item
+        jar="/home/nisha/AndroidStudioProjects/MAPSPROJECT/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.0.1/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="4356e230a981d1bbf047d848b91bc0d9b7c5bacc">
+        <dex dex="/home/nisha/AndroidStudioProjects/MAPSPROJECT/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-recyclerview-v7-23.0.1_8c4ae1005f17a4c2e58f1c25ea11c688c0174479/classes.dex" />
+    </item>
+
+</items>
